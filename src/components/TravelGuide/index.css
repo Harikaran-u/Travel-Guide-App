@@ -1,0 +1,18 @@
+.main-container {
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #eef4f7;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #334155;
+  text-decoration: underline #52bbf0;
+  text-align: center;
+}
+.package-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}

@@ -1,0 +1,19 @@
+.list-item {
+  width: 400px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.country-img {
+  width: 100%;
+}
+.country-name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #334155;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  color: #475569;
+}
